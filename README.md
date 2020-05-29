@@ -14,6 +14,8 @@ understand if they should implement this new page, keep the old page, or perhaps
 * Hypothesis testing via bootstrapping and standard statistical tests (p-value and z-score calculations)
 * Logitic regression and multiple linear regression modelling to assess relationship between independent variables
 
+Python libraries used: Numpy, Pandas, Random, Matplotlib, StatsModels, Scipy
+
 ## Key Findings
 There is no evidence to suggest a significant impact of the new page on user conversion or any impact of the country of the user
 on the conversion rate between the new and old page.
